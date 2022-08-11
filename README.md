@@ -1,6 +1,7 @@
-Please enter command propmt one :  npm run server
-Please enter command propmt two :  npm start
-
+Please enter command prompt one :  npm run server
+<br>
+Please enter command prompt two :  npm start
+<br>
 The json-server is used in this application.
 
 <img src='./src/images/1.jpg' alt="1"/>

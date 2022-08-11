@@ -1,0 +1,4 @@
+export const GET_RECORDS = "GET_RECORDS";
+export const DELETE_RECORD = "DELETE_RECORD";
+export const UPDATE_RECORD = "UPDATE_RECORD";
+export const GET_SINGLE_RECORD = "GET_SINGLE_RECORD";
